@@ -1,0 +1,16 @@
+*{
+    text-shadow: 0 0 15px black;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(187, 175, 116);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    flex-flow: column;
+    background-color: rgb(55, 39, 71);
+}
